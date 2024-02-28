@@ -1,5 +1,5 @@
 # Webhook-Splasher
-A Python script that allows users to send messages through Discord webhooks.
+A Python script that allows users to send messages through Discord webhooks. 
 
 ## Features
 - Send a single message to a Discord channel via webhook.
@@ -11,4 +11,5 @@ A Python script that allows users to send messages through Discord webhooks.
 
 Replace YOUR_WEBHOOK_URL with the actual webhook URL.
 
-
+## Inspiration
+[TeleTracker](https://github.com/tsale/TeleTracker)
